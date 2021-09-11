@@ -1,0 +1,16 @@
+.container{
+  border: solid black;
+  height: 500px;
+}
+.noti{
+  margin-left: 80%;
+}
+.noti{
+  margin-top:20%;
+}
+
+.suc{background-color: rgba(101, 255, 101, 0.849);}
+.err{background-color: rgba(247, 23, 23, 0.938);}
+.warn{background-color: rgb(255, 208, 0);}
+.inf{background-color: rgba(0, 162, 255, 0.932);}
+.unst{background-color: rgb(231, 231, 231);}
